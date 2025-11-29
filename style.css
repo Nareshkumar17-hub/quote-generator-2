@@ -1,9 +1,10 @@
   #box {
    
     height: 200px;  
-    width: auto;
+    width: 600px;
     overflow-y: scroll;
 
 
 
   }
+
